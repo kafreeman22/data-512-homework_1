@@ -14,7 +14,7 @@ The goal of this project is to practice reproducibility and replicability good p
       - dino_monthly_cumulative_201506-202209.json
           - Cumulative views of dinosaurs (monthly and mobile) between 06/15-09/22
           
-      *Data Note 1:* As the instructions state "For all of the data sets we are only interested in actual user pageview requests. The three resulting datasets should be saved as a JSON files ordered using article titles as a key for the resulting time series data." my resulting dataframes include each **article title** associated with their **user pageview requests**
+      *Data Note 1:* Because the instructions state "For all of the data sets we are only interested in actual user pageview requests. The three resulting datasets should be saved as a JSON files ordered using article titles as a key for the resulting time series data." my resulting dataframes include each **article title** associated with their **user pageview requests**
       
       *Data Note 2:* I assumed article titles of a given MM/YY with **no** data to indicate total views of 0 for given dinosaur and MM/YY. This assumption is bolstered by none of the article-title and date datapoints containing 0 views. 
           
