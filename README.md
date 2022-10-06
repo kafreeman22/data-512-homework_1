@@ -14,7 +14,7 @@ The goal of this project is to practice reproducibility and replicability good p
       - dino_monthly_cumulative_201506-202209.json
           - Cumulative views of dinosaurs (monthly and mobile) between 06/15-09/22
           
-      *Note: As the instructions state "For all of the data sets we are only interested in actual user pageview requests. The three resulting datasets should be saved as a JSON files ordered using article titles as a key for the resulting time series data."*
+      *Note: As the instructions state "For all of the data sets we are only interested in actual user pageview requests. The three resulting datasets should be saved as a JSON files ordered using article titles as a key for the resulting time series data." my resulting dataframes include each **article title** associated with their **user pageview requests***
           
   2. Analyzing the constructed datasets through the following visualizations
       - Maximum Average and Minimum Average
