@@ -6,7 +6,7 @@
 
 The goal of this project is to practice reproducibility and replicability good practices, as defined in [The Basic Reproducible Workflow Template]([https://link-url-here.org](http://www.practicereproducibleresearch.org/core-chapters/3-basic.html)) and [Assessing Reproducibility]([https://link-url-here.org](http://www.practicereproducibleresearch.org/core-chapters/2-assessment.html)), within a data-science format. The data-science tasks of this project include
 
-  1. Pulling data from Wikipedia using the Pageviews API ([documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews), [endpoint](https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end), [terms of use](https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions), [license]()) on dinosaur web-traffic. The three datasets constructed include:
+  1. Pulling data from Wikipedia using the Pageviews API ([documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews), [endpoint](https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end), [terms of use](https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions), [license](https://www.gnu.org/licenses/fdl-1.3.html)) on dinosaur web-traffic. The three datasets constructed include:
       - dino_monthly_desktop_201506-202209.json
           - Desktop views of dinosaurs within dinosaurs.csv between 06/15-09/22
       - dino_monthly_mobile_201506-202209.json
