@@ -13,6 +13,9 @@ The goal of this project is to practice reproducibility and replicability good p
           - Mobile views of dinosaurs within dinosaurs.csv between 06/15-09/22
       - dino_monthly_cumulative_201506-202209.json
           - Cumulative views of dinosaurs (monthly and mobile) between 06/15-09/22
+          
+      *Note: As the instructions state "For all of the data sets we are only interested in actual user pageview requests. The three resulting datasets should be saved as a JSON files ordered using article titles as a key for the resulting time series data."*
+          
   2. Analyzing the constructed datasets through the following visualizations
       - Maximum Average and Minimum Average
           - Contains time series data for the articles that have the highest average page requests and the lowest average page requests for desktop access and mobile access. This graph havs four lines (max desktop, min desktop, max mobile, min mobile).
