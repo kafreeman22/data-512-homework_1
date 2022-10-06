@@ -10,11 +10,13 @@ The goal of this project is to practice reproducibility and replicability good p
       - dino_monthly_desktop_201506-202209.json
           - Short description
       - dino_monthly_mobile_201506-202209.json
+          - Short description
       - dino_monthly_cumulative_201506-202209.json
+          - Short description
   2. Analyzing the constructed datasets through the following visualizations
-      a. Maximum Average and Minimum Average
+      - Maximum Average and Minimum Average
           - Contains time series data for the articles that have the highest average page requests and the lowest average page requests for desktop access and mobile access. This graph havs four lines (max desktop, min desktop, max mobile, min mobile).
-      b. Top 10 Peak Page Views
+      - Top 10 Peak Page Views
           - Contains time series data for the top 10 article pages by largest (peak) page views over the entire time by access type. This graph contains the top 10 for desktop and top 10 for mobile access (20 lines).
-      c. Fewest Months of Data
+      - Fewest Months of Data
           - Visualizes pages that have the fewest months of available data. This graph shows the 10 articles with the fewest months of data for desktop access and the 10 articles with the fewest months of data for mobile access.
