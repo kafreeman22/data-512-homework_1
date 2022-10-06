@@ -24,6 +24,7 @@ The goal of this project is to practice reproducibility and replicability good p
           - x-axis represents time-series in form of MM/YY
           - y-axis represents views
           - This visualization is saved as Maximum_Average_and_Minimum_Average.png
+              ![Viz](Maximum_Average_and_Minimum_Average.png)
       - Top 10 Peak Page Views
           - Contains time series data for the top 10 article pages by largest (peak) page views over the entire time by access type. This graph contains the top 10 for desktop and top 10 for mobile access (20 lines).
           - x-axis represents time-series in form of MM/YY
