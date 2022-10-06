@@ -7,9 +7,9 @@
 The goal of this project is to practice reproducibility and replicability good practices, as defined in [The Basic Reproducible Workflow Template]([https://link-url-here.org](http://www.practicereproducibleresearch.org/core-chapters/3-basic.html)) and [Assessing Reproducibility]([https://link-url-here.org](http://www.practicereproducibleresearch.org/core-chapters/2-assessment.html)), within a data-science format. The data-science tasks of this project include
 
   1. Pulling data from Wikipedia using the Pageviews API ([documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews), [endpoint](https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end), [terms of use](https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions)) on dinosaur web-traffic. The three datasets constructed include:
-      a. dino_monthly_desktop_201506-202209.json
-      b. dino_monthly_mobile_201506-202209.json
-      c. dino_monthly_cumulative_201506-202209.json
+      - a. dino_monthly_desktop_201506-202209.json
+      - b. dino_monthly_mobile_201506-202209.json
+      - c. dino_monthly_cumulative_201506-202209.json
   2. Analyzing the constructed datasets through the following visualizations
       a. Maximum Average and Minimum Average
           - Contains time series data for the articles that have the highest average page requests and the lowest average page requests for desktop access and mobile access. This graph havs four lines (max desktop, min desktop, max mobile, min mobile).
