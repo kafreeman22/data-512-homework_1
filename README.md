@@ -30,8 +30,10 @@ The goal of this project is to practice reproducibility and replicability good p
           - x-axis represents time-series in form of MM/YY
           - y-axis represents views
           - This visualization is saved as Top_10_Peak_Page_Views.png
+              ![Viz](Top_10_Peak_Page_Views.png)
       - Fewest Months of Data
           - Visualizes pages that have the fewest months of available data. This graph shows the 10 articles with the fewest months of data for desktop access and the 10 articles with the fewest months of data for mobile access.
           - x-axis represents time-series in form of MM/YY
           - y-axis represents views
           - This visualization is saved as Fewest_Months_of_Data.png
+              ![Viz](Fewest_Months_of_Data.png)
